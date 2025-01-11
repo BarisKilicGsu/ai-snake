@@ -1,9 +1,5 @@
 # AI Snake - Yapay Zeka ile Öğrenen Klasik Yılan Oyunu 🐍
 
-<div align="center">
-  <img src="docs/snake-ai-logo.png" alt="AI Snake Logo" width="200" height="200"/>
-</div>
-
 ## 📝 Proje Hakkında
 
 AI Snake, klasik Nokia yılan oyununun modern bir yapay zeka implementasyonudur. Deep Q-Learning kullanarak kendi kendine oynamayı ve gelişmeyi öğrenen bir sistem içerir.
