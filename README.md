@@ -120,7 +120,7 @@ AI Snake, klasik Nokia yılan oyununun modern bir yapay zeka implementasyonudur.
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/yourusername/ai-snake.git
+git clone https://github.com/BarisKilicGsu/ai-snake.git
 
 # Proje dizinine gidin
 cd ai-snake
@@ -131,25 +131,15 @@ pip install -r requirements.txt
 # Oyunu başlatın
 python src/main.py
 
-# Mod Seçimi:
-# 1. Klasik Mod için: python main.py --mode classic
-# 2. AI Mod için: python main.py --mode ai
+
 ```
 
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
-## 🤝 Katkıda Bulunma
-
-1. Fork'layın
-2. Feature branch'i oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
 
 ## 📞 İletişim
 
-Proje Sahibi - [@yourusername](https://twitter.com/yourusername)
 
-Proje Linki: [https://github.com/yourusername/ai-snake](https://github.com/yourusername/ai-snake) 
+Proje Linki: [https://github.com/BarisKilicGsu/ai-snake](https://github.com/BarisKilicGsu/ai-snake) 
